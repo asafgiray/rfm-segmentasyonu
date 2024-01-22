@@ -10,7 +10,7 @@ Proje, UCI Machine Learning Repository'den elde edilen "online_retail_II.xlsx" a
 ## Projeyi Çalıştırma
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-Depoyu bilgisayarınıza kopyalayın: git clone https://github.com/kullanici_adi/online-retail-rfm-segmentation.git
+Depoyu bilgisayarınıza kopyalayın: git clone https://github.com/asafgiray/rfm-segmentasyonu.git
 
 ## Katkıda Bulunma
 Eğer projeye katkıda bulunmak istiyorsanız, lütfen bir çatal oluşturun (fork) ve değişikliklerinizi bir dalda (branch) yaparak önerilerinizi gönderin.
@@ -27,7 +27,7 @@ The project utilizes the "online_retail_II.xlsx" dataset obtained from the UCI M
 ## Running the Project
 To run the project on your local machine, you can follow the steps below:
 
-Clone the repository to your computer: git clone https://github.com/username/online-retail-rfm-segmentation.git
+Clone the repository to your computer: git clone https://github.com/asafgiray/rfm-segmentasyonu.git
 
 ## Contribution
 If you wish to contribute to the project, please fork the repository and submit your suggestions by creating a new branch.
